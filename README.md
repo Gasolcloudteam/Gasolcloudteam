@@ -18,3 +18,31 @@ Telegram: [https://t.me/Gasolcloudteam](https://t.me/Gasolcloudteam)
 homepages：[https://xingchencloud.top/](https://xingchencloud.top/)
 
 blog：[https://xingchenblog.ml/](https://xingchenblog.ml/)
+
+<!--
+**Gasolcloudteam/Gasolcloudteam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+  -->
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gasolcloudteam&show_icons=true&count_private=true&line_height=40)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gasolcloudteam&show_icons=true)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Gasolcloudteam&repo=cdn)](https://github.com/Gasolcloudteam/hyperf-cdn)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Gasolcloudteam&repo=hexo-starter)](https://github.com/Gasolcloudteam/hexo-starter)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Gasolcloudteam&repo=homepages)](https://github.com/Gasolcloudteam/homepages)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Gasolcloudteam&repo=linux-order)](https://github.com/Gasolcloudteam/linux-order)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Gasolcloudteam&repo=start-pages)](https://github.com/Gasolcloudteam/start-pages)
