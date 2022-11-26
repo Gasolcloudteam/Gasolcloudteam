@@ -22,7 +22,7 @@ Telegram: [https://t.me/Gasolcloudteam](https://t.me/Gasolcloudteam)
 
 homepages：[https://xingchencloud.top/](https://xingchencloud.top/)
 
-blog：[https://xingchenblog.ml/](https://xingchenblog.ml/)
+blog：[https://blog.xingchencloud.top/](https://blog.xingchencloud.top/)
 
 ## My Github：
 
