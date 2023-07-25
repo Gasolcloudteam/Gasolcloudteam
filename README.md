@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/Gasolcloudteam/Gasolcloudteam/main/assets/github-contribution-grid-snake.svg)
+![](https://raw.githubusercontent.com/Gasolcloudteam/Gasolcloudteam/main/assets/github-contribution-grid-snake.gif)
 
 # 🔭 About.Me
 
