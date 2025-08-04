@@ -18,6 +18,6 @@ bilibili: [https://space.bilibili.com/514124095/](https://space.bilibili.com/514
 
 ## 👋 My WebSite：
 
-homepages：[https://xingchencloud.top/](https://xingchencloud.top/)
+homepages：[https://list.xingchencloud.top/](https://list.xingchencloud.top/)
 
 blog：[https://blog.xingchencloud.top/](https://blog.xingchencloud.top/)
