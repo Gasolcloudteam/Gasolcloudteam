@@ -6,9 +6,9 @@
 
 # 🔭 About.Me
 
-### ⚡ 最爱崩三一句话：迷茫的时候，就抬头看看星空吧。我愿在那里为你照亮整片黑夜。当你为错过太阳而流泪时，那么你也将错过群星。
+### ⚡Slogan：追求源于热爱，但热爱无界！/Pursuit stems from passion, but passion knows no bounds!
 
-## 💬 联系我：
+## 💬 Contact me：
 
 QQ: [3226477957](http://wpa.qq.com/msgrd?v=3&uin=3226477957&site=qq&menu=yes)
 
