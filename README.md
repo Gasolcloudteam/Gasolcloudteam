@@ -8,16 +8,4 @@
 
 ### ⚡Slogan：追求源于热爱，但热爱无界！/Pursuit stems from passion, but passion knows no bounds!
 
-## 💬 Contact me：
-
-QQ: [3226477957](http://wpa.qq.com/msgrd?v=3&uin=3226477957&site=qq&menu=yes)
-
-WeChat: xingchen-lihao
-
-bilibili: [https://space.bilibili.com/514124095/](https://space.bilibili.com/514124095/)
-
-## 👋 My WebSite：
-
-homepages：[https://list.xingchencloud.top/](https://list.xingchencloud.top/)
-
-blog：[https://blog.xingchencloud.top/](https://blog.xingchencloud.top/)
+### 喜欢做梦摸鱼
