@@ -40,13 +40,13 @@
       <h3><a href="https://github.com/Gasolcloudteam/Scrcpy-scripts">📱 Scrcpy-scripts</a></h3>
       <p>Scrcpy 的快速一键投屏脚本，支持有线方式、无线方式，方便上手操作。</p>
       <img src="https://img.shields.io/github/stars/Gasolcloudteam/Scrcpy-scripts?style=social" alt="stars">
-      <img src="https://img.shields.io/badge/语言-Batchfile-yellow" alt="Batchfile">
+      <img src="https://img.shields.io/badge/Language-Batchfile-yellow" alt="Batchfile">
     </td>
     <td width="50%" valign="top" style="padding: 12px;">
       <h3><a href="https://github.com/Gasolcloudteam/Countdown">⏳ Countdown</a></h3>
       <p>高考倒计时，支持当前年份高考时间过后，自动切换到下一年继续倒计时。</p>
       <img src="https://img.shields.io/github/stars/Gasolcloudteam/Countdown?style=social" alt="stars">
-      <img src="https://img.shields.io/badge/语言-CSS-blue" alt="CSS">
+      <img src="https://img.shields.io/badge/Language-CSS-blue" alt="CSS">
     </td>
   </tr>
   <tr>
@@ -54,20 +54,27 @@
       <h3><a href="https://github.com/Gasolcloudteam/Music-Player">🎵 Music-Player</a></h3>
       <p>基于 Vite 构建的纯前端静态音乐播放器，支持歌词同步、播放记忆、播放列表管理，采用毛玻璃 (Glassmorphism) 设计风格。</p>
       <img src="https://img.shields.io/github/stars/Gasolcloudteam/Music-Player?style=social" alt="stars">
-      <img src="https://img.shields.io/badge/语言-JavaScript-f7df1e?logo=javascript&logoColor=black" alt="JavaScript">
+      <img src="https://img.shields.io/badge/Language-JavaScript-f7df1e?logo=javascript&logoColor=black" alt="JavaScript">
+    </td>
+    <td width="50%" valign="top" style="padding: 12px;">
+      <h3><a href="https://github.com/Gasolcloudteam/NetworkPanel-Lite">🚀 网络测速面板</a></h3>
+      <p>基于 Vue3 构建的纯前端测速站点，支持多线程并发下载测速（1-64 线程）、自定义测速地址，采用类毛玻璃 (Glassmorphism) 设计风格。</p>
+      <img src="https://img.shields.io/github/stars/Gasolcloudteam/NetworkPanel-Lite?style=social" alt="stars">
+      <img src="https://img.shields.io/badge/Language-Vue-4FC08D?logo=vue.js&logoColor=white" alt="Vue">
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top" style="padding: 12px;">
+      <h3><a href="https://github.com/Gasolcloudteam/wallpaper">🖼️ Wallpaper</a></h3>
+      <p>壁纸相关项目</p>
+      <img src="https://img.shields.io/github/stars/Gasolcloudteam/wallpaper?style=social" alt="stars">
+      <img src="https://img.shields.io/badge/Language-HTML5-e34f26?logo=html5&logoColor=white" alt="HTML5">
     </td>
     <td width="50%" valign="top" style="padding: 12px;">
       <h3><a href="https://github.com/Gasolcloudteam/random-video-api">🎬 random-video-api</a></h3>
       <p>随机视频 API 服务</p>
       <img src="https://img.shields.io/github/stars/Gasolcloudteam/random-video-api?style=social" alt="stars">
-      <img src="https://img.shields.io/badge/语言-JavaScript-f7df1e?logo=javascript&logoColor=black" alt="JavaScript">
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" width="100%" valign="top" style="padding: 12px;">
-      <h3><a href="https://github.com/Gasolcloudteam/wallpaper">🖼️ Wallpaper</a></h3>
-      <p>壁纸相关项目</p>
-      <img src="https://img.shields.io/github/stars/Gasolcloudteam/wallpaper?style=social" alt="stars">
+      <img src="https://img.shields.io/badge/Language-JavaScript-f7df1e?logo=javascript&logoColor=black" alt="JavaScript">
     </td>
   </tr>
 </table>
